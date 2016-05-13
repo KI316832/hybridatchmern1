@@ -1,0 +1,104 @@
+img#logo{
+  background-image:url("../bajajautoimg/bajajlogo.jpg");
+  margin-left: 195px;
+  height: 250;
+  width: 250;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 190px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 8px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: orange;
+
+}
+
+div#topdiv{
+
+position:fixed;
+top:0px;
+left:0px;
+width:100%;
+color:#ccc;
+background:#333;
+padding:8px;
+
+
+}
+#bottomdiv{
+
+top:0px;
+left:px;
+width:100%;
+color:#CCC;
+background:#333;
+padding:8px;
+
+}
+
+p#copyrights{
+text-align: center;
+
+
+}
+
+li#footerlinks{
+  text-align: center;
+}
+.hero-unit {
+margin-top: -55px;
+margin-left: 195px;
+margin-right: 195px;
+margin-bottom: 20px;
+    background-image:url("../bajajautoimg/ktm2.jpg");
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:400px;
+}
+.hero-unit h1 {
+
+  padding-left: 50px;
+text-align: left;
+margin-top: 10px;
+    color:orange;
+    font-size: 50px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+.hero-unit h2 {
+    padding-left: 50px;
+  text-align: left;
+    font-size: 25px;
+    color: #FFFFFF;
+
+}
+.hero-unit p{
+    padding-left: 50px;
+  text-align: left;
+    font-size: 15px;
+    color: #FFFFFF;
+
+}
+html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
