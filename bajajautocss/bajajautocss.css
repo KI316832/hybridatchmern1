@@ -6,7 +6,7 @@ img#logo{
   width: 250;
 }
 
-
+/* navigation menu css*/
 ul {
     list-style-type: none;
     margin-left: 190px;
@@ -28,11 +28,13 @@ li a {
     text-decoration: none;
 }
 
+/* mouse over changecolor to orange on navigation css*/
 #changecolor:hover {
     background-color: orange;
 
 }
 
+/* fixed header*/
 div#topdiv{
 
 position:fixed;
@@ -45,6 +47,8 @@ padding:8px;
 
 
 }
+
+/* footer*/
 #bottomdiv{
 
 top:0px;
@@ -56,15 +60,12 @@ padding:8px;
 
 }
 
-p#copyrights{
-text-align: left;
-
-
-}
 
 li#footerlinks{
   text-align: center;
 }
+
+/* hero unit css*/
 .hero-unit {
 margin-top: -55px;
 margin-left: 195px;
@@ -100,6 +101,8 @@ margin-top: 10px;
     color: #FFFFFF;
 
 }
+
+/* remoce overflow*/
 html, body {
         max-width: 100%;
         overflow-x: hidden;
