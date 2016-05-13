@@ -1,9 +1,11 @@
+/* logo css*/
 img#logo{
   background-image:url("../bajajautoimg/bajajlogo.jpg");
   margin-left: 195px;
   height: 250;
   width: 250;
 }
+
 
 ul {
     list-style-type: none;
